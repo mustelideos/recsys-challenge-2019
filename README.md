@@ -10,16 +10,16 @@
 
 2. Install [Anaconda](https://www.anaconda.com/download/) (**Python 3 version**).
 
-3. Install the environment by running:
+3. Install the environment:
     ```bash
     cd recsys-challenge-2019/
     conda env create --file environment_recsys-challenge-2019.yml
     ```
-4. Activate the environment with 
+4. Activate the environment:
     ```bash
     conda activate recsys-challenge-2019
     ```
-5. Run all features and model
+5. Run all features and model:
     ```bash
     cd scripts
     sh run_all_future.sh
