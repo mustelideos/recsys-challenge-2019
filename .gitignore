@@ -1,0 +1,7 @@
+*.csv
+./data/*
+./models/*
+./predictions/*
+./features/*
+__pycache__
+.DS_Store
