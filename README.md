@@ -17,7 +17,7 @@
     ```
 4. Activate the environment with 
     ```bash
-    conda activate environment_recsys-challenge-2019
+    conda activate recsys-challenge-2019
     ```
 5. Run all features and model
     ```bash
