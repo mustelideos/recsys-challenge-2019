@@ -7,19 +7,20 @@
     ```bash
     git clone https://github.com/hugoguh/saca_recsys
     ```
+2. Copy/move/download the competion data files to `./data/`
 
-2. Install [Anaconda](https://www.anaconda.com/download/) (**Python 3 version**).
+3. Install [Anaconda](https://www.anaconda.com/download/) (**Python 3 version**).
 
-3. Install the environment:
+4. Install the environment:
     ```bash
     cd recsys-challenge-2019/
     conda env create --file environment_recsys-challenge-2019.yml
     ```
-4. Activate the environment:
+5. Activate the environment:
     ```bash
     conda activate recsys-challenge-2019
     ```
-5. Run all features and model:
+6. Run all features and model:
     ```bash
     cd scripts
     sh run_all_future.sh
