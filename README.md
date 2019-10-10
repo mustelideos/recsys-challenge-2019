@@ -1,5 +1,7 @@
 # recsys-challenge-2019
-7th place solution to the RecSys 2019 Data Challenge
+[An Attentive RNN Model for Session-based and Context-aware Recommendations](https://drive.google.com/file/d/1R5LGJgbOkSDCB_dbXZg8-elMhVEbhiVD/view)
+
+7th place solution @ [RecSys 2019 Data Challenge](http://www.recsyschallenge.com/2019/).
 
 ## Setup instructions
 
